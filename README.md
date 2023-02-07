@@ -1,6 +1,6 @@
-Hiya 👋
+Hiya, world. 👋
 
-<!---
-phatjng/phatjng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to a place where all my (awesome) ideas are thrown into.
+
+|<img align="center" src="https://nvrr.land/cywU8fc8q2" />|<img align="center" src="https://nvrr.land/VQ5KU0oPzE" />|
+|---------------------------------------------------------|---------------------------------------------------------|
